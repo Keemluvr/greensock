@@ -1,0 +1,42 @@
+.box {
+    width: 90vw;
+    height: 200px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.block {
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+}
+
+.zero {
+    background-color: gray;
+}
+
+.one,
+.six {
+  background-color: #abdee6;
+}
+.two,
+.seven {
+  background-color: #cbaacb;
+}
+.three,
+.eight {
+  background-color: #ffffb5;
+}
+.four,
+.nine {
+  background-color: #ffccb6;
+}
+.five,
+.ten {
+  background-color: #f3b0c3;
+}
